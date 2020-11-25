@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+- ReactJS
+- NodeJS / Express
+- Socket.IO (frontend + backend)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
